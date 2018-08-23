@@ -137,3 +137,8 @@ Tests:
 2.	Verify the response JSON for GET/users is paginated as parameters provided (like page=0&per_page=100)
 3.	Verify that the response JSON payload for the user is as per the documentation 
 4.	Verify the API doesn’t return anything if since, page and per_page parameters are not provided. 
+
+
+**Tests Performed**
+1. PostMan Collection for Manual Testing : https://www.getpostman.com/collections/a88ae905caebee111708 
+2. For Automation Testing : Refer the my code pushed to master branch. 
