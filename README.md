@@ -140,5 +140,5 @@ Tests:
 
 
 **Tests Performed**
-1. PostMan Collection for Manual Testing : https://www.getpostman.com/collections/a88ae905caebee111708 
+1. PostMan Collection for Manual Testing 
 2. For Automation Testing : Refer the my code pushed to master branch. 
